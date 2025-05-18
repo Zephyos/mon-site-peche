@@ -5,10 +5,10 @@ body {
   padding: 20px;
 }
 h1 {
-  color: #1e90ff;
+  color: #000000;
 }
 nav {
-  background-color: #1e90ff;
+  background-color: #000000;
   padding: 15px 0;
   box-shadow: 0 2px 5px rgba(0,0,0,0.1);
 }
